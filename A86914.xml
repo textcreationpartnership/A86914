@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A charge delivered into the House of Peers upon Wednesday last, by Major Huntington, against Lieu. Gen. Cromwel, and Commissary Generall Ireton, concerning the Kings Majesty. With His Majesties speech to the commissioners from Scotland, and his resolution to lose his life, rather then to yeald to what is contrary. And his oath and covenant to all his liege people within his relame and dominions, at the conclusion of a safe and well-grounded peace. Likewise, Prince Charles his message to the citizens of London; and his desires to the said city, touching His Royall Father the King presented to both Houses of Parliament. Also, the Parliaments message for peace, and thier humble desires to the Kings most Excellent Majesty; ordered to be sent by the Earle of Middlesex, Sir John Hipsley, and Mr. Bulkley.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86914</idno>
+            <idno type="STC">Wing H3773</idno>
+            <idno type="STC">Thomason E456_29</idno>
+            <idno type="STC">ESTC R205051</idno>
+            <idno type="EEBO-CITATION">99864495</idno>
+            <idno type="PROQUEST">99864495</idno>
+            <idno type="VID">162060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162060)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E456[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A charge delivered into the House of Peers upon Wednesday last, by Major Huntington, against Lieu. Gen. Cromwel, and Commissary Generall Ireton, concerning the Kings Majesty. With His Majesties speech to the commissioners from Scotland, and his resolution to lose his life, rather then to yeald to what is contrary. And his oath and covenant to all his liege people within his relame and dominions, at the conclusion of a safe and well-grounded peace. Likewise, Prince Charles his message to the citizens of London; and his desires to the said city, touching His Royall Father the King presented to both Houses of Parliament. Also, the Parliaments message for peace, and thier humble desires to the Kings most Excellent Majesty; ordered to be sent by the Earle of Middlesex, Sir John Hipsley, and Mr. Bulkley.</title>
+                  <author>Huntington, Robert.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Wharton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, --  Early works to 1800.</term>
+               <term>Ireton, Henry, 1611-1651 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162060:1" rendition="simple:additions"/>
+            <p>A CHARGE DELIVERED Into the Houſe of Peers upon Wedneſday laſt, by Major HUNTINGTON, againſt Lieu. Gen. <hi>Cromwel,</hi> and Commiſſary Generall <hi>Ireton,</hi> concerning the KINGS MAJESTY, With His Majeſties Speech to the Commiſſioners from Scot<g ref="char:EOLhyphen"/>land, and His Reſolution to loſe His life, rather then to yeeld to what is contrary. And His Oath and Covenant to all His liege People within His Realms and Dominians, at the conclu<g ref="char:EOLhyphen"/>ſion of a late and well-grounded Peace.</p>
+            <p>Likewiſe, Prince <hi>Charles</hi> His Meſſage to the Citizene of <hi>London;</hi> and His Deſires to the ſaid City, touching His Royall Father the King, preſented to both Houſes of Parliament.</p>
+            <p>Alſo, the Parliaments Meſſage for Peace, And their humble Deſires to the Kings moſt Excellent Majeſty; Ordered to be ſent by the Earle of <hi>Middleſex,</hi> Sir <hi>John Hipſley,</hi> and Mr. <hi>Bulkley.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+               <p>C R</p>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>Imprinted at <hi>Lond<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Wh<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n,</hi> MD<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>XLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162060:2"/>
+            <pb n="1" facs="tcp:162060:2"/>
+            <head>The Propoſalls of the Brittains within the Principality of <hi>VVales,</hi> ſent to his Highneſse Prince <hi>Charles.</hi>
+            </head>
+            <p>UPon the third of this inſtant <hi>Auguſt,</hi> it was advertized from <hi>Wales,</hi> that the <hi>Britains</hi> be<g ref="char:EOLhyphen"/>gins to levy a new War for the King, and have made choice of the Prince of <hi>Wales</hi> to be their Generall, as appeares by the enſu<g ref="char:EOLhyphen"/>ing Declaration and propſitions ſent from the <hi>Welſh-men</hi> to his Highneſſe, which followeth in theſe words.</p>
+            <p>May it pleaſe your Highneſſe, We hope our Declara<g ref="char:EOLhyphen"/>tion which we have now ſent unto your Highneſſe, will give you ample ſatisfaction as well of Our Integrity heretofore, as of Our intentions for the future to ſerve your Royall Father and your ſelfe, as farre as We are able to make you both great and glorious as the Parlia<g ref="char:EOLhyphen"/>ment promiſed, and we ever intended, and did <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill of late conceive that they did ſo too, but as ſoone as we clearly ſaw that they went clean contrary wayes, we addreſſed our ſelves to his Majeſty, and had a promiſe to have a
+<pb n="2" facs="tcp:162060:3"/>ſpeedy directions from him, which we have not yet had the reaſon whereof, as we conceive, is becauſe of the cloſe reſtront upon him, in regard whereof we do now apply our ſelves unto your Highneſſe: we have ſent ſome Propoſitions, which, we hope, will ſeeme reaſonable to your Highneſſe; and to confirm us in our endevours, and that your Highneſſe will pleaſe to ſigne them and ſome inſtructions concerning our wants and ſupplyes, to which, we hope, your Highneſſe will pleaſe to give us a ſpeedy anſwer, that ſo we may go on the more cheereful to reſtore your Royall Father to his greatneſſe, that he may long reign over us, and when it ſhall pleaſe God to give him a Kingdom of glory in Heaven, to leave all his Kingdoms on earth, to you his ſucceſſour in peace and happineſſe, which ſhall ever be the praier of youre moſt Loyall and leige people, the trve Brittains &amp;c.</p>
+            <p>
+               <hi>The Welſhmens Propoſitiones to his Highnſſe the Prince of</hi> Wales</p>
+            <p n="1">1 That his Highneſſe the Prince of <hi>Wales</hi> will be plea<g ref="char:EOLhyphen"/>ſed to own them for his Army and to be their Generall, and if he pleaſe to come heither in perſon, if not to ap<g ref="char:EOLhyphen"/>point.</p>
+            <p n="2">2 That they may have an act of Oblivion and Indem<g ref="char:EOLhyphen"/>nity, and a generall pardon for all things heretofore don by them during this War, and to be freed from ſuits in Law, by perticular perſons for any thing by them done touching, or in relation to the War.</p>
+            <p n="3">3. That they may be paid all be paid all ſuch arrears as ſhall appeare to be due to them at this time, and for which the Parliament hath promiſed to give them <hi>De<g ref="char:EOLhyphen"/>benters,</hi> and reaſonable time and courſe to be appointed for the payment thereof, and for their futer pay.</p>
+            <p n="4">4 That they may continue in ſuch ffices and places as now they have, untill they be preferrd to greater: and not to put them out without juſt cauſe, nor new Officers
+<pb n="3" facs="tcp:162060:3"/>over them againſt their will.</p>
+            <p>
+               <hi>The Welſhmenes Declaration to Princ Charles.</hi>
+            </p>
+            <p>
+               <hi>We whoſe names are here unto Subſcribed do declare that we will uſe our beſt endeavours to bring the King to a perſonall treaty with his Par. in fredom, honour, and Safty; to the end that the juſt Prerogative of the King, Priviledges of Parl. Lawes of the Land, Liberties of the people may be all maintained and preſerved in their proper bounds and the Prodiſtant Religion, as it now ſtands eſtabliſhed by the Law of the Land.</hi>
+            </p>
+            <p>
+               <hi>The Tranſactiens of the proſedings of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, in relation to the King, City, and Kingdome.</hi>
+            </p>
+            <p>THe Houſe of Commos, having ſpent much time in debate upon the expedent, about Treating perſonal<g ref="char:EOLunhyphen"/>ly with his Majeſty &amp; in regard many inconveniences &amp; unanſerable, appeare by his Maj. coming to nea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>London</hi> on the one ſide, and as many objectians that his Majeſty grants the 3 propoſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions before a Treaty, and the latitud if demands on both ſides be ſeen: They agre that the Trea<g ref="char:EOLhyphen"/>ty be in the Iſle of <hi>Wight,</hi> &amp; that it be with Honour Free<g ref="char:EOLhyphen"/>dome, and S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fety, to his Maje. alſo to the Parl. for the time manner, and place in the Iſle of <hi>Whight,</hi> and ap<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted acommittee to conſider of the place. And upon Mun. July 31, The Lords &amp; Commons as Com. for peace, fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about place, time and manner of the Treaty with his Maje. Voted that a Meſſage be ſent unto his Maje. to de<g ref="char:EOLhyphen"/>ſire him to appoint what place he will in the Iſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, that may be with Honour and Safety to both ſides, And upon <hi>Tueſday Auguſt.</hi> 1</p>
+            <p>Their Lordſhips made choyce of the L. of <hi>Midleſex</hi> to go from their Houſe, and deſire the Commons to goe as Com. to his Maje. which accordingly they did, &amp; up<g ref="char:EOLhyphen"/>on <hi>Wedneſday</hi> l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt had ſome debate in relation to a Treaty and named their two menbers, that are to go to his Majeſty with the Earle of <hi>Middelſex,</hi> to acquaint him
+<pb n="4" facs="tcp:162060:4"/>That the Parliament deſires he will appoint what place in the Iſle of <hi>Wyght</hi> he pleaſe, to treat with freedom, ho<g ref="char:EOLhyphen"/>nour, and ſafety to himſelfe, and the Commiſſioner sand upon thoſe particulars preſented at <hi>Hampton</hi> Court, and what his Maj ſhall offer, as alſo what the Commiſ: ſhall further offer.</p>
+            <p>This day ſeveral Reaſons were preſented to the Houſe of <hi>Peers,</hi> ſhewing the grounds and cauſe why Major <hi>Huntington</hi> left the Army, in which he ſets forth the whole tranſaction between his Maj, and Lieut. Generall <hi>Cromwell,</hi> and Commiſ. Gen. <hi>Jreton,</hi> with other things, which he hath ſeen and heard in the Army.</p>
+            <p>The Gentlemen that came from Duke <hi>Hamilton</hi> with a letter to his Maj. is returned from <hi>Carisbrook</hi> Caſtle in the Iſle of <hi>Wyght:</hi> He hath delivered the ſaid letter to his Maj. who upon his Maj. reading the ſame, had private diſcourſe with the King, and after ſome diſpute, His Maj. returned an anſwer to Duke <hi>Hamiltons</hi> letter, and ſent a letter back to his Highneſſe, by the ſaid Meſſenger.</p>
+            <p>The Houſe of Commons likewiſe underſtanding, that their Committees Arguments were not ſatisfying laſt night to the Common-Councel, by act of the ſaid Com<g ref="char:EOLhyphen"/>mon-Councel, inviting all that would, to come and lift horſe, men, or diſburſe money, for defence of the City and Parliament, which ſhould be accounted an acceptable work, and Commiſ: and Treaſurers were appointed at a certain place in Guild Hall to take ſubſcriptions, who are to report the ſame to the Common Councel: The Commons after ſome debate hereupon, appointed a Committee to go to the City, to know if they owned that paper or Act, and by what authority they did it.</p>
+            <p>Auguſt 3. This day were extant a book entituled, <hi>An
+<pb n="5" facs="tcp:162060:4"/>Expedient for the King,</hi> containing ſeverall Propoſitions, to his Maj. as a Peace-Offering for his people, <hi>viz.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>1. That you will not break any Priviledge of Parl. and therefore it were fit that the particuler Priviledges were ſet down, that ſo the King may not intrench upon them in the leaſt.</item>
+                  <item>2. That your Majeſty will not diminiſh or in<g ref="char:EOLhyphen"/>trench upon the liberty of the Subject, but hold your ſelf ſtrictly to the Laws of the Land.</item>
+                  <item>3. That your Maj. will not extend your Prerogative in the leaſt, beyond the due bounds granted to your Prediceſſours, or to the pre<g ref="char:EOLhyphen"/>judice of the Perſons of your Subjects, or the known Laws of the Land: To which end you deſire the particu<g ref="char:EOLhyphen"/>lars and extent of it to be ſet down, and agreed upon, that ſo you may the better perform it.</item>
+                  <item>4. That you will grant nothing to any perſon out of your Revenue, and this for your poſterities ſake; that ſo by your own good husbandty, you may be the better inabled to reward thoſe you deſire.</item>
+                  <item>5. That you will anſwer no Petition, for matter of profit, to any Petitioner; but firſt that you will refer it to two Judges of the Law, to certifie you the legallity of it, and that no ſubject (or the Crown) be any way prejudiced by it; and if your Maj. be abuſed in it, the Judge to be highly puniſhed, and if he dye before the diſ<g ref="char:EOLhyphen"/>covery, his Eſtate to ſatisfie it to the Crown.</item>
+                  <item>6. That your Maj. will protect the perſon of no Subject for debt, but only your meniall ſervants, and yet not his Goods or E<g ref="char:EOLhyphen"/>ſtates neither, but all things, except his perſon, to be lia<g ref="char:EOLhyphen"/>ble to the Law.</item>
+                  <item>7. That your Majeſty will give no pro<g ref="char:EOLhyphen"/>tection to any perſon for above 6 months; but not for their Coods or Eſtates at all.</item>
+                  <item>8. That your Maj. will de<g ref="char:EOLhyphen"/>moliſh all Forts and Caſtles the Parl. ſhall deſire within the Kingdom of <hi>England.</hi>
+                  </item>
+                  <item>9. That your Maj. ingage your <gap reason="missing" extent="1 page">
+                        <desc>〈1 page missing〉</desc>
+                     </gap>
+                  </item>
+               </list>
+            </p>
+            <pb facs="tcp:162060:5"/>
+            <p n="2">II. Kings Covenant with his People.</p>
+            <p>J C.R. <hi>Do here in the preſence of the bleſſed Trinity</hi> [God the Father, God the Son, and God the Holy Ghoſt.] <hi>profeſſe to all the world, without any Equivocation or mentall Reſervation, that I now do, and for ever will forgive and forget all kinds of offences a<g ref="char:EOLhyphen"/>gainſt me, either in word or deed, committed by any of my Subjects in</hi> England, <hi>and contained in the Act of Oblivion; and this of my own free will and deſire, I do, that all my People may ſee and behold the Candor of my Heart: and I do here bury in the grave of Oblivion, all things contained in the Act of Oblivion, in my ſoul not deſiring to re<g ref="char:EOLhyphen"/>member it, and vowing never to revenge it. So help me God, and the contents of this holy Book: and this I confirm by the taking of the Sacrament.</hi>
+            </p>
+            <p>The Kings Maj. being acquainted, that Mr. <hi>Aliburton</hi> were come from <hi>Scotland,</hi> with letters from the Commiſſioners, he were ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led in to the preſence Chamber, and his Maj. propo<g ref="char:EOLhyphen"/>ſed ſome Queries concerning the Scots Officers now in <hi>England.</hi> And further declared, that he would offer ſuch things, as ſhall he for the Peace and ſafety of his people, and that he will rather loſe his life, then yeald to what is contrary. His Maj. hath delivered a letter to Mr. <hi>Aliburton,</hi> in anſwer to the letter from the Commit<g ref="char:EOLhyphen"/>tee of <hi>Scotland.</hi> On Wedneſday Auguſt 2. A paper was de<g ref="char:EOLhyphen"/>livered to, and read in the Houſe of Lords from Maj. <hi>Hurtington,</hi> of reaſons why he left the Army. They are very large, being a nar<g ref="char:EOLhyphen"/>rative of L. G. <hi>Cromwell,</hi> &amp; C.G. <hi>Ireton,</hi> ſince the Parl. going to disband the Army, what was done by them in that, alſo the over<g ref="char:EOLhyphen"/>tures with his Maj. Their proceedings againſt the Lords Co<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons &amp; Aldermen that were impeached. The Lieu, Gen. acquainting the King with the Propoſitions, &amp; asking his Maj approbation, C.G. <hi>Iretons,</hi> ſaying they were the verieſt knaves that ever was, they made not good all promiſed to the King. And how contra<g ref="char:EOLhyphen"/>dicted &amp;c. <hi>Prince Charles declares that he ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a good opi<g ref="char:EOLhyphen"/>nion of the City, That the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are come in to reſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e the King his father from impriſonment. That he is reſolved to endeavour the ſame, and hope: that all good people will joyn with him therein, for a perſonall Treaty with the King his Father, That he hath made ſtay of ſame Ships belonging to City Marchants, but not diſpoſed of them. That if the City will ſpeedily advance him</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>000, <hi>they ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll be repaid it out of the Cuſtoms, as was <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>merly appointed for the <gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ing of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sea, which his Highneſſe will take care of, and to ſecure the Marchants Trade at Sea, &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
